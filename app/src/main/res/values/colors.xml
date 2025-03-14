@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="button_text_color_black">#000000</color>
+    <color name="button_text_color_blue">#425FFF</color>
+
+    <color name="clickable_button">#FF5722</color>
+    <color name="dull_button">#F4D0C4</color>
+    <color name="button_text_color_white">#ffffff</color>
+
+    <color name="text_color_white">#FFFFFFFF</color>
+    <color name="text_color_green">#44AE2D</color>
+    <color name="text_color_black">#000000</color>
+    <color name="text_color_light_black">#222222</color>
+    <color name="text_color_light_white">#EDE9E9</color>
+    <color name="text_color_off_white">#7A7A7A</color>
+    <color name="text_color_blue">#425FFF</color>
+    <color name="hint_text_color">#7A7A7A</color>
+
+    <color name="white_background">#FFFFFFFF</color>
+    <color name="card_background">#425FFF</color>
+
+    <!--    <color name="notification_bar_color_off_white">#DFE0E4</color>-->
+    <color name="notification_bar_color_off_white">#425FFF</color>
+    <color name="notification_bar_color_blue">#425FFF</color>
+
+    <color name="icon_color_black">#000000</color>
+    <color name="icon_color_blue">#425FFF</color>
+    <color name="icon_color_white">#FFFFFFFF</color>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "547824649011",
+    "project_id": "convocards-7be53",
+    "storage_bucket": "convocards-7be53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547824649011:android:c32ba96b0732a82fee3446",
+        "android_client_info": {
+          "package_name": "com.bandesha.convocards"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLB5g3rYJPzK3I024Ao-QCmQBpQ6aK3sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
